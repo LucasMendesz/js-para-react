@@ -9,3 +9,7 @@
  - Operador ... (spread ou rest)
    - Spread (espalhar): usado para dividir elementos de um array ou propriedades de um objeto
    - Rest (resto, sobra, resíduo): usado para mesclar uma lista de parâmtros de função como um array
+- map();
+- filter();
+- reduce();
+- Recursos assíncronos (ajax)
