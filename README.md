@@ -1,5 +1,4 @@
 # Anotações
- https://www.w3schools.com/js/js_versions.asp
 
 ## Principais tópicos de atenção e estudo
  - Declaração de variáveis e constantes (let e const)
@@ -9,7 +8,12 @@
  - Operador ... (spread ou rest)
    - Spread (espalhar): usado para dividir elementos de um array ou propriedades de um objeto
    - Rest (resto, sobra, resíduo): usado para mesclar uma lista de parâmtros de função como um array
-- map();
-- filter();
-- reduce();
 - Recursos assíncronos (ajax)
+- Métodos/Funções para array
+   - map();
+   - filter();
+   - reduce();
+- async/await (sintaxe para comunicação assíncrona[ajax]);
+
+## Sites úteis
+-  https://www.w3schools.com/js/js_versions.asp

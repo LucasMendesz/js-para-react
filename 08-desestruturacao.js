@@ -39,3 +39,4 @@ const dados = {
 const { nome: aluno, curso} = dados;
 console.log(aluno);
 console.log(curso);
+console.log('=========================================================');
